@@ -268,7 +268,7 @@
 
   }
 
-  .main_content-image > .title__text  {
+  .main_content-image > .title__text {
     grid-column: span 4;
   }
 
